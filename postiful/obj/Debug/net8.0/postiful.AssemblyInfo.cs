@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("postiful")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19b1c4bb96481f182d29f29866ccd13d0c46a3f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1387b1ebbef1b8db65eed6b035c0fb53332783ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("postiful")]
 [assembly: System.Reflection.AssemblyTitleAttribute("postiful")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
